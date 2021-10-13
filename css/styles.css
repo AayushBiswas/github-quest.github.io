@@ -44,16 +44,15 @@ footer {
   margin-right: 20px;
   margin-left: 20px;
   font-size: 20px;
-  margin-bottom: 20px;
 }
 
-
-footer a,hr,p{
-  margin-bottom: 20px;
-}
 footer hr{
   height: 1px;
   background-color:#fff;
   width: 40%;
   margin-left: 30%;
+}
+
+footer p {
+ margin-bottom: 20px;
 }
